@@ -1,7 +1,7 @@
-### Olá, eu sou Lean Cipher.
+### 𝙾𝚕𝚊, 𝚎𝚞 𝚜𝚘𝚞 𝙻𝚎𝚊𝚗 𝙲𝚒𝚙𝚑𝚎𝚛.
 
-- # Apenas um Estudante
-- # Estudando: Python
+- # 𝙰𝚙𝚎𝚗𝚊𝚜 𝚞𝚖 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎
+- # 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚍𝚘: 𝙿𝚢𝚝𝚑𝚘𝚗
 
 <div align="center">
   <a href="https://github.com/leancipher">
